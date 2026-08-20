@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Name": "Boz"
+            }
+        ],
+        "Category": "System Information",
+        "Description": "Show ChatGPT Codex quota and reset information in Plasma",
+        "EnabledByDefault": true,
+        "Icon": "office-chart-pie",
+        "Id": "com.boz.codexquota",
+        "License": "MIT",
+        "Name": "Codex Quota",
+        "Version": "1.0.0",
+        "Website": "https://github.com/bigbozza/codex-notch-kde"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
