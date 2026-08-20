@@ -12,6 +12,9 @@ view with:
 - Available rate-limit reset credits and their next expiry, when supplied
 - Manual refresh and an Open ChatGPT shortcut
 
+<img width="410" height="372" alt="image" src="https://github.com/user-attachments/assets/54c149bb-195d-44f2-bd49-9fbb02af3a1f" />
+
+
 ## Requirements
 
 - KDE Plasma 6
